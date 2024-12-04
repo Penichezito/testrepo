@@ -1,1 +1,1 @@
-Add any content for the first lab
+This Repo is a test repository created to practicing Git for a Coursera course
